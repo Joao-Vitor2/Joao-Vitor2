@@ -99,10 +99,8 @@ Veja os detalhes de cada um no [portfólio](https://joao-vitor2.github.io/).
 
 ## Minha atividade no GitHub
 
-<p align="center">A cobrinha come as contribuições da conta <a href="https://github.com/Joojizitos65">Joojizitos65</a>, onde ficam a maioria dos meus repositórios.</p>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joao-Vitor2/Joao-Vitor2/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joao-Vitor2/Joao-Vitor2/output/github-snake.svg" />
-  <img alt="Cobrinha comendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/Joao-Vitor2/Joao-Vitor2/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joao-Vitor2/Joao-Vitor2/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joao-Vitor2/Joao-Vitor2/output/github-snake.svg?v=2" />
+  <img alt="" src="https://raw.githubusercontent.com/Joao-Vitor2/Joao-Vitor2/output/github-snake.svg?v=2" />
 </picture>
