@@ -1,7 +1,7 @@
 <h1 align="center">João Vitor Lucas Schmidt</h1>
 
 <p align="center">
-  <b>AI Engineer em formação · Ciência de Dados e IA</b><br/>
+  <b>Ciênciasta de Dados em formação ·  Analista e Desenvolvedor de Sistemas</b><br/>
   Palhoça, Santa Catarina · Brasil
 </p>
 
